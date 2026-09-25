@@ -15,10 +15,10 @@
 - 🎯 I'm currently preparing for **software engineering placements**.
 - ☕ I'm practicing **Java, Data Structures & Algorithms, and Core CS fundamentals**.
 - 🧩 I'm solving coding problems and continuously improving my **problem-solving skills**.
-- ⚙️ I'm currently building my foundation in **DevOps and cloud engineering**.
+- ⚙️ I'm building my foundation in **DevOps and cloud engineering**.
 - ☁️ I'm exploring **AWS, Azure, and GCP** through hands-on labs.
 - 📚 I use GitHub to document my **learning journey, projects, and daily progress**.
-- 🚀 My long-term direction is **Cloud / DevOps / Software Engineering**.
+- 🚀 My direction is **Cloud / DevOps / Software Engineering**.
 - 🤝 I'm interested in building practical projects and learning through real-world implementation.
 
 ---
@@ -55,10 +55,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-Future-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Future-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-Future-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-Future-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 </p>
 
 ### ☁️ Cloud
@@ -69,13 +73,14 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-### 🚀 DevOps Roadmap — Future Learning
+### 📊 Observability & Security
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-Future-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-Future-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-Future-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-Future-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-EF4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 </p>
 
 ---
@@ -84,9 +89,19 @@
 
 **Linux & Networking** → **Git & GitHub** → **Bash / Automation** → **Docker** → **CI/CD** → **Kubernetes** → **Terraform / IaC** → **AWS / Azure / GCP** → **Monitoring & Observability** → **DevSecOps** → **GitOps**
 
-> 🟢 **Current:** Java • DSA • Git/GitHub • DevOps foundations  
-> 🟡 **Next:** Linux • Networking • Bash • Docker • CI/CD  
-> 🔵 **Future:** Kubernetes • Terraform • Cloud • Prometheus • Grafana • DevSecOps • GitOps
+### 🔥 Learning Focus
+
+- ☕ **Java + DSA** — problem solving and placement preparation
+- 🐧 **Linux + Networking** — systems and DevOps foundations
+- 💻 **Bash + Automation** — scripting and workflow automation
+- 🐳 **Docker** — containerization
+- 🔄 **CI/CD** — automated build, test and deployment workflows
+- ☸️ **Kubernetes** — container orchestration
+- 🏗️ **Terraform + Ansible** — infrastructure and configuration automation
+- ☁️ **AWS + Azure + GCP** — cloud engineering
+- 📊 **Prometheus + Grafana + OpenTelemetry** — monitoring and observability
+- 🔐 **DevSecOps** — security throughout the software delivery lifecycle
+- 🌊 **Argo CD / GitOps** — declarative application delivery
 
 ---
 
@@ -125,32 +140,12 @@
 
 ---
 
-## 🔥 Current Learning
+## 🚀 DevOps Projects
 
-<p align="center">
-
-### **LEARN → BUILD → SOLVE → AUTOMATE → DEPLOY → REPEAT**
-
-</p>
-
-- ☕ **Java + DSA** — problem solving and placement preparation
-- 🐧 **Linux + Networking** — DevOps foundations
-- 🐳 **Docker** — containerization
-- 🔄 **CI/CD** — automated build and deployment workflows
-- ☸️ **Kubernetes** — future orchestration goal
-- 🏗️ **Terraform** — future infrastructure-as-code goal
-- ☁️ **Cloud** — AWS, Azure & GCP
-- 📊 **Observability** — Prometheus & Grafana
-- 🔐 **DevSecOps** — security integrated into delivery
-
----
-
-## 🚧 Future Projects
-
-| Project | Planned Stack |
+| Project | Technology Stack |
 |---|---|
 | 🐳 Containerized Application | Docker + Linux |
-| 🔄 CI/CD Pipeline | GitHub Actions / Jenkins |
+| 🔄 CI/CD Pipeline | GitHub Actions + Jenkins |
 | ☸️ Kubernetes Deployment | Kubernetes + Helm |
 | 🏗️ Cloud Infrastructure | Terraform + AWS |
 | 📊 Monitoring Dashboard | Prometheus + Grafana |
